@@ -1,0 +1,1355 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		
+		<Text>
+		  <GUID>1337501000</GUID>
+		  <Text>Quay with deep catwalks</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501001</GUID>
+		  <Text>Quay with deep catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501002</GUID>
+		  <Text>Quay with deep catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501003</GUID>
+		  <Text>Quay with deep catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501004</GUID>
+		  <Text>Quay with high catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501005</GUID>
+		  <Text>Quay with high catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501006</GUID>
+		  <Text>Quay with high catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501007</GUID>
+		  <Text>Quay with high catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501013</GUID>
+		  <Text>Red Wharf</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501014</GUID>
+		  <Text>Red Wharf</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501015</GUID>
+		  <Text>Red Wharf</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501016</GUID>
+		  <Text>Metal Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501017</GUID>
+		  <Text>Stone Bridges Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501018</GUID>
+		  <Text>Stone Bridges Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501019</GUID>
+		  <Text>Stone Bridges Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501020</GUID>
+		  <Text>Stone Bridges Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501021</GUID>
+		  <Text>Rock Wall Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501022</GUID>
+		  <Text>Rock face Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501023</GUID>
+		  <Text>Rock face Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501024</GUID>
+		  <Text>Bridges Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501025</GUID>
+		  <Text>Catwalk Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501026</GUID>
+		  <Text>Catwalk Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501027</GUID>
+		  <Text>Catwalk Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501028</GUID>
+		  <Text>Red Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501029</GUID>
+		  <Text>Red Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501030</GUID>
+		  <Text>Red Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501031</GUID>
+		  <Text>Metal Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501032</GUID>
+		  <Text>Stone bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501033</GUID>
+		  <Text>Stone Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501034</GUID>
+		  <Text>Stone Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501035</GUID>
+		  <Text>Stone Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501036</GUID>
+		  <Text>Rock face Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501037</GUID>
+		  <Text>Rock face Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501038</GUID>
+		  <Text>Rock face Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501039</GUID>
+		  <Text>Roofed rock wall Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501040</GUID>
+		  <Text>Roofed rock wall Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501041</GUID>
+		  <Text>Roofed rock wall Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501042</GUID>
+		  <Text>Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501043</GUID>
+		  <Text>Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501044</GUID>
+		  <Text>Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501045</GUID>
+		  <Text>Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501046</GUID>
+		  <Text>Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501047</GUID>
+		  <Text>Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501048</GUID>
+		  <Text>Invisible street</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501050</GUID>
+		  <Text>Alternate quay with railings</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501051</GUID>
+		  <Text>Alternate quay without railing</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501052</GUID>
+		  <Text>Bridge Closed (2x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501053</GUID>
+		  <Text>Bridge Closed (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501054</GUID>
+		  <Text>Bridge Closed (4x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501055</GUID>
+		  <Text>Bridge Animated (4x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501056</GUID>
+		  <Text>Bridge Animated (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501057</GUID>
+		  <Text>Wooden Bridge (2x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501058</GUID>
+		  <Text>Wooden bridge (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501063</GUID>
+		  <Text>Port cranes 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501064</GUID>
+		  <Text>Port cranes 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501065</GUID>
+		  <Text>Port Cranes 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501066</GUID>
+		  <Text>Port cranes 3x3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501067</GUID>
+		  <Text>Port cranes 3x3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501068</GUID>
+		  <Text>Port cranes 3x3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501069</GUID>
+		  <Text>Port cranes 5x5 and larger</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501070</GUID>
+		  <Text>Port cranes 5x5 and larger</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501071</GUID>
+		  <Text>Port cranes 5x5 and larger</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501072</GUID>
+		  <Text>Port construction site</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501073</GUID>
+		  <Text>Port construction site</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501074</GUID>
+		  <Text>Port construction site</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501075</GUID>
+		  <Text>Pier left with quay</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501076</GUID>
+		  <Text>Pier Left with Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501077</GUID>
+		  <Text>Pier left with quay</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501078</GUID>
+		  <Text>Pier left without quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501079</GUID>
+		  <Text>Pier right with quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501080</GUID>
+		  <Text>Pier Right with Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501081</GUID>
+		  <Text>Right Pier with quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501082</GUID>
+		  <Text>Right Pier without quay</Text> 
+		</Text>
+		<Text>
+		  <GUID>1337501083</GUID>
+		  <Text>Pier Cross Left with Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501084</GUID>
+		  <Text>Pier cross left with quay</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501085</GUID>
+		  <Text>Pier cross left with quay</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501086</GUID>
+		  <Text>Pier cross left without quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501087</GUID>
+		  <Text>Pier cross right with quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501088</GUID>
+		  <Text>Pier cross right with quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501089</GUID>
+		  <Text>Lateral right Pier with quay</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501090</GUID>
+		  <Text>Cross right Pier without quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501091</GUID>
+		  <Text>Pier with storage hut</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501092</GUID>
+		  <Text>Pier with storage hut</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501093</GUID>
+		  <Text>Pier with storage hut</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501094</GUID>
+		  <Text>Pier with travelling crane</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501095</GUID>
+		  <Text>Pier with travelling crane</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501096</GUID>
+		  <Text>Pier with travelling crane</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501097</GUID>
+		  <Text>Pedestrian bridge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501098</GUID>
+		  <Text>Sand pile</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501099</GUID>
+		  <Text>Large pile of boxes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501100</GUID>
+		  <Text>Freight stack</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501101</GUID>
+		  <Text>Steel ingot</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501102</GUID>
+		  <Text>Stack of barrels</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501103</GUID>
+		  <Text>Stack of crates</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501104</GUID>
+		  <Text>Metal tubes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501105</GUID>
+		  <Text>Tanks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501106</GUID>
+		  <Text>Water tower</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501107</GUID>
+		  <Text>Construction shed</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501108</GUID>
+		  <Text>Lighthouse</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501113</GUID>
+		  <Text>Port Depot 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501114</GUID>
+		  <Text>Alternate quay with railings</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501115</GUID>
+		  <Text>Alternative quay without railings</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501116</GUID>
+		  <Text>Port Depot 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501117</GUID>
+		  <Text>Port Depot 2x1 without roof</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501118</GUID>
+		  <Text>Port Depot corner</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501119</GUID>
+		  <Text>Port Depot T-junction</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501120</GUID>
+		  <Text>Port depot X-junction</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501121</GUID>
+		  <Text>Directional sign</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501124</GUID>
+		  <Text>Boats with mast OW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501125</GUID>
+		  <Text>Boats with mast NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501126</GUID>
+		  <Text>Boats with mast Neutral</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501127</GUID>
+		  <Text>Boats without mast OW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501128</GUID>
+		  <Text>Boats without mast NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501129</GUID>
+		  <Text>Boats without mast Neutral</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501130</GUID>
+		  <Text>Medium vessels</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501131</GUID>
+		  <Text>Middle steamships</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501132</GUID>
+		  <Text>Medium sailing vessels</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501133</GUID>
+		  <Text>Steam-powered transport ships</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501134</GUID>
+		  <Text>Large sailing vessels</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501135</GUID>
+		  <Text>Large ships mixed</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501136</GUID>
+		  <Text>Paddlewheel steamer</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501137</GUID>
+		  <Text>Battle cruiser</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501138</GUID>
+		  <Text>Liner</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501139</GUID>
+		  <Text>Great Eastern</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501140</GUID>
+		  <Text>Tug active</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501141</GUID>
+		  <Text>Tug inactive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501142</GUID>
+		  <Text>Loaded barges</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501143</GUID>
+		  <Text>Wooden bridge (2x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501144</GUID>
+		  <Text>Wooden bridge (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501145</GUID>
+		  <Text>Wooden bridge (2x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501146</GUID>
+		  <Text>Wooden bridge (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501151</GUID>
+		  <Text>Deep corner</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501152</GUID>
+		  <Text>Deep area</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501153</GUID>
+		  <Text>Deep 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501154</GUID>
+		  <Text>Deep 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501155</GUID>
+		  <Text>Deep 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501156</GUID>
+		  <Text>Deep corner filler</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501157</GUID>
+		  <Text>Deep stair</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501158</GUID>
+		  <Text>Ramp Left</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501159</GUID>
+		  <Text>Ramp End Left</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501160</GUID>
+		  <Text>Ramp Right</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501161</GUID>
+		  <Text>Ramp end right</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501162</GUID>
+		  <Text>Freestanding ramp left</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501163</GUID>
+		  <Text>Free-standing ramp right</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501164</GUID>
+		  <Text>Freestanding corner</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501165</GUID>
+		  <Text>Free-standing area</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501166</GUID>
+		  <Text>Freestanding 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501167</GUID>
+		  <Text>Freestanding 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501168</GUID>
+		  <Text>Freestanding 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501169</GUID>
+		  <Text>Deep corner</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501170</GUID>
+		  <Text>Deep area</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501171</GUID>
+		  <Text>Deep 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501172</GUID>
+		  <Text>Deep 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501173</GUID>
+		  <Text>Deep 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501174</GUID>
+		  <Text>Deep corner filler</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501175</GUID>
+		  <Text>Deep stair</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501176</GUID>
+		  <Text>Ramp Left</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501177</GUID>
+		  <Text>Ramp End Left</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501178</GUID>
+		  <Text>Ramp Right</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501179</GUID>
+		  <Text>Ramp end right</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501180</GUID>
+		  <Text>Freestanding ramp left</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501181</GUID>
+		  <Text>Free-standing ramp right</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501182</GUID>
+		  <Text>Freestanding corner</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501183</GUID>
+		  <Text>Freestanding area</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501184</GUID>
+		  <Text>Freestanding 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501185</GUID>
+		  <Text>Freestanding 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501186</GUID>
+		  <Text>Freestanding 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501187</GUID>
+		  <Text>Deep corner</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501188</GUID>
+		  <Text>deep area</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501189</GUID>
+		  <Text>Deep 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501190</GUID>
+		  <Text>Deep 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501191</GUID>
+		  <Text>Deep 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501192</GUID>
+		  <Text>Deep corner filler</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501193</GUID>
+		  <Text>Deep stair</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501194</GUID>
+		  <Text>Ramp Left</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501195</GUID>
+		  <Text>Ramp End Left</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501196</GUID>
+		  <Text>Ramp Right</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501197</GUID>
+		  <Text>Ramp end right</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501198</GUID>
+		  <Text>Freestanding ramp left</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501199</GUID>
+		  <Text>Free-standing ramp right</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501200</GUID>
+		  <Text>Freestanding corner</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501201</GUID>
+		  <Text>Free-standing area</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501202</GUID>
+		  <Text>Freestanding 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501203</GUID>
+		  <Text>Freestanding 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501204</GUID>
+		  <Text>Freestanding 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501205</GUID>
+		  <Text>Standing crates</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501206</GUID>
+		  <Text>Catwalk advertising boards Anno self-advertising</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501207</GUID>
+		  <Text>Catwalk advertising boards ingame products</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501208</GUID>
+		  <Text>Catwalk advertising boards mods</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501210</GUID>
+		  <Text>Catwalk Flag 1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501211</GUID>
+		  <Text>Catwalk flag 2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501212</GUID>
+		  <Text>Catwalk flag 3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501213</GUID>
+		  <Text>Catwalk flag 4</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501214</GUID>
+		  <Text>Catwalk flag 5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501215</GUID>
+		  <Text>Catwalk flag 6</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501216</GUID>
+		  <Text>Catwalk flag 7</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501217</GUID>
+		  <Text>Catwalk flag 8</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501218</GUID>
+		  <Text>Catwalk flag 9</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501219</GUID>
+		  <Text>Catwalk flag 10</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501220</GUID>
+		  <Text>Catwalk flag 11</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501221</GUID>
+		  <Text>Catwalk flag 12</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501222</GUID>
+		  <Text>Catwalk flag 13</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501223</GUID>
+		  <Text>Catwalk flag 14</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501224</GUID>
+		  <Text>Catwalk flag 15</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501225</GUID>
+		  <Text>Catwalk flag 16</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501226</GUID>
+		  <Text>Catwalk flag 17</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501227</GUID>
+		  <Text>Catwalk flag 18</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501228</GUID>
+		  <Text>Catwalk flag 19</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501229</GUID>
+		  <Text>Catwalk flag 20</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501230</GUID>
+		  <Text>Catwalk flag 21</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501231</GUID>
+		  <Text>Catwalk flag 22</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501232</GUID>
+		  <Text>Catwalk flag 23</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501233</GUID>
+		  <Text>Middle oil storage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501234</GUID>
+		  <Text>Medium oil storage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501235</GUID>
+		  <Text>Medium oil storage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501236</GUID>
+		  <Text>Large oil storage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501237</GUID>
+		  <Text>Large oil storage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501238</GUID>
+		  <Text>Large oil storage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501239</GUID>
+		  <Text>Small gun emplacement</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501240</GUID>
+		  <Text>Large gun emplacement</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501241</GUID>
+		  <Text>Tile wall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501242</GUID>
+		  <Text>Tile wall gate</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501243</GUID>
+		  <Text>Low wall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501244</GUID>
+		  <Text>Low wall arch</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501245</GUID>
+		  <Text>Low wall entrance</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501246</GUID>
+		  <Text>Ornate steel fence</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501248</GUID>
+		  <Text>Potted plants on plinth</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501249</GUID>
+		  <Text>Potted Plants Fenced</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501250</GUID>
+		  <Text>Potted Plants Normal</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501251</GUID>
+		  <Text>Small trees and shrubs</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501252</GUID>
+		  <Text>Flowers on plinth</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501253</GUID>
+		  <Text>Flowerpot</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501254</GUID>
+		  <Text>Flowerpot Large</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501255</GUID>
+		  <Text>Quay Billboards Anno Self-Advertising</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501256</GUID>
+		  <Text>Quay Billboards ingame products</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501257</GUID>
+		  <Text>Quay Billboards Mods</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501258</GUID>
+		  <Text>Quay advertising pillars</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501259</GUID>
+		  <Text>Quay singel benches</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501260</GUID>
+		  <Text>Quay duo benches with persons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501261</GUID>
+		  <Text>Quay duo benches benches without people</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501262</GUID>
+		  <Text>Quay duo benches without benches and persons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501263</GUID>
+		  <Text>Quay bench seats with garland</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501264</GUID>
+		  <Text>Quay quadro benches</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501265</GUID>
+		  <Text>Red carpet</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501267</GUID>
+		  <Text>Quay Flag 1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501268</GUID>
+		  <Text>Quay Flag 2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501269</GUID>
+		  <Text>Quay Flag 3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501270</GUID>
+		  <Text>Quay Flag 4</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501271</GUID>
+		  <Text>Quay Flag 5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501272</GUID>
+		  <Text>Quay Flag 6</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501273</GUID>
+		  <Text>Quay Flag 7</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501274</GUID>
+		  <Text>Quay Flag 8</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501275</GUID>
+		  <Text>Quay Flag 9</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501276</GUID>
+		  <Text>Quay Flag 10</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501277</GUID>
+		  <Text>Quay Flag 11</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501278</GUID>
+		  <Text>Quay Flag 12</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501279</GUID>
+		  <Text>Quay Flag 13</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501280</GUID>
+		  <Text>Quay Flag 14</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501281</GUID>
+		  <Text>Quay Flag 15</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501282</GUID>
+		  <Text>Quay Flag 16</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501283</GUID>
+		  <Text>Quay Flag 17</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501284</GUID>
+		  <Text>Quay Flag 18</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501285</GUID>
+		  <Text>Quay Flag 19</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501286</GUID>
+		  <Text>Quay Flag 20</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501287</GUID>
+		  <Text>Quay Flag 21</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501288</GUID>
+		  <Text>Quay Flag 22</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501289</GUID>
+		  <Text>Quay Flag 23</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501292</GUID>
+		  <Text>Quay Statues 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501293</GUID>
+		  <Text>Quay Fountain 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501294</GUID>
+		  <Text>Quay Statues 2x2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501295</GUID>
+		  <Text>Quay Fountains 2x2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501296</GUID>
+		  <Text>Quay Fountain 3x2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501297</GUID>
+		  <Text>Quay Fountain 4x5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501298</GUID>
+		  <Text>Quay Statues 4x5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501299</GUID>
+		  <Text>Quay passages</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501300</GUID>
+		  <Text>Quay archway</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501301</GUID>
+		  <Text>Quay roofing</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501302</GUID>
+		  <Text>Quay street roofing</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501303</GUID>
+		  <Text>Quay Marketplaces Ornamental</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501304</GUID>
+		  <Text>Quay Kiosk</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501305</GUID>
+		  <Text>Quay People</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501306</GUID>
+		  <Text>Quay Flag 24</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501309</GUID>
+		  <Text>Carousel</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501310</GUID>
+		  <Text>Giant wheel</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501311</GUID>
+		  <Text>Coaster</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501312</GUID>
+		  <Text>Traveller's kiosk</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501313</GUID>
+		  <Text>Cashier</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501314</GUID>
+		  <Text>Ice cream stall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501315</GUID>
+		  <Text>Sugar watt stand</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501316</GUID>
+		  <Text>Baked goods stall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501317</GUID>
+		  <Text>Mulled wine stall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501318</GUID>
+		  <Text>Candy stall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501319</GUID>
+		  <Text>Howl the Lukas</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501320</GUID>
+		  <Text>Food stall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501321</GUID>
+		  <Text>Beverage stall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501322</GUID>
+		  <Text>Pizzeria</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501323</GUID>
+		  <Text>Sugar Bakery</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501324</GUID>
+		  <Text>Beverage house</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501325</GUID>
+		  <Text>Can throwing</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501326</GUID>
+		  <Text>Shooting gallery</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501327</GUID>
+		  <Text>Photo wall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501328</GUID>
+		  <Text>Fish roll stand</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501329</GUID>
+		  <Text>Port cafe</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501330</GUID>
+		  <Text>Tables</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501331</GUID>
+		  <Text>Public clock</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501332</GUID>
+		  <Text>Street lantern</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501333</GUID>
+		  <Text>Tug Boat</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501334</GUID>
+		  <Text>Quay with railing</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501335</GUID>
+		  <Text>Quay without railing</Text>
+		</Text>
+		
+	
+	
+	
+		<Text>
+			<GUID>1337501008</GUID>
+			<Text>Quay and quay streets.</Text>.
+		</Text>
+		<Text>
+			<GUID>1337501009</GUID>
+			<Text>Design your harbour quay in a different way.</Text>
+		</Text>
+		<Text>
+			<GUID>1337501010</GUID>
+			<Text>Quay and quay streets.</Text>
+		</Text>
+		<Text>
+			<GUID>1337501011</GUID>
+			<Text>Quay and quay streets.</Text>
+		</Text>
+		<Text>
+			<GUID>1337501012</GUID>
+			<Text>Quay and quay streets.</Text>
+		</Text>
+		<Text>
+			<GUID>1337501049</GUID>
+			<Text>Invisible road for bridge construction with road function.First build road then bridge over it!</Text>
+		</Text>
+		<Text>
+			<GUID>1337501059</GUID>
+			<Text>Port cranes are indispensable load carriers. You can never have enough of them</Text>.
+		</Text>
+		<Text>
+			<GUID>1337501060</GUID>
+			<Text>Port Cranes,Piers and Accessories</Text>.
+		</Text>
+		<Text>
+			<GUID>1337501061</GUID>
+			<Text>Port Cranes,Piers and Accessories</Text>
+		</Text>
+		<Text>
+			<GUID>1337501062</GUID>
+			<Text>Port Cranes,Piers and Accessories</Text>
+		</Text>
+		<Text>
+			<GUID>1337501109</GUID>
+			<Text>Port depots and guns</Text>.
+		</Text>
+		<Text>
+			<GUID>1337501110</GUID>
+			<Text>Expand the storage capacity on your island and prepare for war</Text>.
+		</Text>
+		<Text>
+			<GUID>1337501111</GUID>
+			<Text>Port depots and guns</Text>.
+		</Text>
+		<Text>
+			<GUID>1337501112</GUID>
+			<Text>Port Depots and Guns</Text>
+		</Text>
+		<Text>
+			<GUID>1337501122</GUID>
+			<Text>Ships Ornamental</Text>
+		</Text>
+		<Text>
+			<GUID>1337501123</GUID>
+			<Text>Small,Medium or Large, all together are Guardians of the Harbour</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501147</GUID>
+		  <Text>Quay wall catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501148</GUID>
+		  <Text>catwalks for the quay area</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501149</GUID>
+		  <Text>Quay wall catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501150</GUID>
+		  <Text>Quay wall catwalks</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501209</GUID>
+		  <Text>Flags for deep catwalk</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501247</GUID>
+		  <Text>Quay ornaments</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501266</GUID>
+		  <Text>Quay flags</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501290</GUID>
+		  <Text>Statues and fountains</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501291</GUID>
+		  <Text>A magnificent statue or a refreshing fountain, neither should be missing from the harbour</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501307</GUID>
+		  <Text>Harbour Fair</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501308</GUID>
+		  <Text>There's no place like the Harbour Fair</Text>.
+		</Text>
+
+</ModOp>
+</ModOps>

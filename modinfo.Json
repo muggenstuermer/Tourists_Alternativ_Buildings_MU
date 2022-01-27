@@ -1,0 +1,77 @@
+{
+  "Version": "1.0",
+  "ModID": "Tourists_Alternativ_Buildings_MU",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Building",
+    "French": "Immeuble",
+    "German": "Gebäude",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+    "ModName": {
+    "Chinese": null,
+    "English": "Tourists_Alternativ_Buildings_MU",
+    "French": "Tourists_Alternativ_Buildings_MU",
+    "German": "Tourists_Alternativ_Buildings_MU",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Provides a hotel and a bar as alternative buildings. With upcoming updates, these will be expanded to include almost all Tourist Season buildings.",
+    "French": "Fournit un hôtel et un bar comme bâtiments alternatifs. Avec les mises à jour à venir, ceux-ci seront étendus pour inclure presque tous les bâtiments de la saison touristique.",
+    "German": "Stellt ein Hotel und eine Bar als alternativgebäude zur verfügung.Mit kommenden Updates werden diese um fast alle Tourist Season gebäude erweitert.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": null,
+  "CreatorName": "muggenstuermer",
+  "CreatorContact": "https://discord.gg/TFGXpmsm",
+  "Image" : null
+}

@@ -1,0 +1,1352 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+	<Text>
+		  <GUID>1337501000</GUID>
+		  <Text>Quai avec des passerelles profondes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501001</GUID>
+		  <Text>Quai avec des passerelles profondes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501002</GUID>
+		  <Text>Quai avec des passerelles profondes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501003</GUID>
+		  <Text>Quai avec des passerelles profondes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501004</GUID>
+		  <Text>Quai avec des passerelles hautes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501005</GUID>
+		  <Text>Quai avec des passerelles hautes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501006</GUID>
+		  <Text>Quai avec des passerelles hautes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501007</GUID>
+		  <Text>Quai avec des passerelles hautes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501013</GUID>
+		  <Text>Quai rouge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501014</GUID>
+		  <Text>Quai Rouge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501015</GUID>
+		  <Text>Quai Rouge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501016</GUID>
+		  <Text>Quai en métal</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501017</GUID>
+		  <Text>Quai des ponts de pierre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501018</GUID>
+		  <Text>Quai des ponts de pierre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501019</GUID>
+		  <Text>Quai des ponts de pierre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501020</GUID>
+		  <Text>Quai des ponts de pierre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501021</GUID>
+		  <Text>Quai à parois rocheuses</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501022</GUID>
+		  <Text>Rock face Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501023</GUID>
+		  <Text>Rock face Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501024</GUID>
+		  <Text>Quai des jetées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501025</GUID>
+		  <Text>Quai de la jetée</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501026</GUID>
+		  <Text>Quai des jetées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501027</GUID>
+		  <Text>Quai des jetées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501028</GUID>
+		  <Text>Red Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501029</GUID>
+		  <Text>Red Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501030</GUID>
+		  <Text>Red Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501031</GUID>
+		  <Text>Rue Metal Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501032</GUID>
+		  <Text>Stone Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501033</GUID>
+		  <Text>Stone Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501034</GUID>
+		  <Text>Stone Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501035</GUID>
+		  <Text>Stone Bridges Quay Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501036</GUID>
+		  <Text>Mur de pierres de la rue Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501037</GUID>
+		  <Text>Mur de pierres de la rue Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501038</GUID>
+		  <Text>Mur de pierres de la rue Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501039</GUID>
+		  <Text>Mur de pierres couvert rue Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501040</GUID>
+		  <Text>Mur de pierres couvert rue Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501041</GUID>
+		  <Text>Mur de pierres couvert rue Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501042</GUID>
+		  <Text>Passerelle Kai Street</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501043</GUID>
+		  <Text>Rue Pier Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501044</GUID>
+		  <Text>Rue Jetties Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501045</GUID>
+		  <Text>Rue Pier Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501046</GUID>
+		  <Text>Quay Street</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501047</GUID>
+		  <Text>Kai Street</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501048</GUID>
+		  <Text>Rue invisible</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501050</GUID>
+		  <Text>Quai alternatif avec garde-corps</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501051</GUID>
+		  <Text>Quai alternatif sans garde-corps</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501052</GUID>
+		  <Text>Pont fermé (2x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501053</GUID>
+		  <Text>Pont fermé (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501054</GUID>
+		  <Text>Pont fermé (4x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501055</GUID>
+		  <Text>Pont animé (4x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501056</GUID>
+		  <Text>Pont animé (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501057</GUID>
+		  <Text>Pont en bois (2x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501058</GUID>
+		  <Text>Pont en bois (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501063</GUID>
+		  <Text>Grues portuaires 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501064</GUID>
+		  <Text>Grues portuaires 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501065</GUID>
+		  <Text>Grues portuaires 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501066</GUID>
+		  <Text>Grues portuaires 3x3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501067</GUID>
+		  <Text>Grues portuaires 3x3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501068</GUID>
+		  <Text>Grues portuaires 3x3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501069</GUID>
+		  <Text>Grues portuaires 5x5 et plus</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501070</GUID>
+		  <Text>Grues portuaires 5x5 et plus</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501071</GUID>
+		  <Text>Grues portuaires 5x5 et plus</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501072</GUID>
+		  <Text>Chantier du port</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501073</GUID>
+		  <Text>Chantier du port</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501074</GUID>
+		  <Text>Chantier du port</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501075</GUID>
+		  <Text>Jetée à gauche avec quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501076</GUID>
+		  <Text>Jetée à gauche avec quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501077</GUID>
+		  <Text>Jetée à gauche avec quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501078</GUID>
+		  <Text>Jetée laissée sans quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501079</GUID>
+		  <Text>Poste d'amarrage à droite du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501080</GUID>
+		  <Text>Amarrage à droite du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501081</GUID>
+		  <Text>Amarrage à droite du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501082</GUID>
+		  <Text>Droit d'amarrage sans quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501083</GUID>
+		  <Text>Croix d'amarrage à gauche du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501084</GUID>
+		  <Text>Croix d'amarrage à gauche du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501085</GUID>
+		  <Text>Croix d'amarrage à gauche du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501086</GUID>
+		  <Text>Amarrage transversal gauche sans quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501087</GUID>
+		  <Text>Croix d'amarrage à droite du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501088</GUID>
+		  <Text>Croix d'amarrage à droite du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501089</GUID>
+		  <Text>Croix d'amarrage à droite du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501090</GUID>
+		  <Text>Croix d'amarrage à droite sans quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501091</GUID>
+		  <Text>Amarrage avec entrepôt</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501092</GUID>
+		  <Text>Jetée avec cabane de stockage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501093</GUID>
+		  <Text>Jetée avec cabane de stockage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501094</GUID>
+		  <Text>Jetée avec grue mobile</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501095</GUID>
+		  <Text>Jetée avec pont roulant</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501096</GUID>
+		  <Text>Jetée avec pont roulant</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501097</GUID>
+		  <Text>Passerelle</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501098</GUID>
+		  <Text>Pile de sable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501099</GUID>
+		  <Text>Une grosse pile de cartons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501100</GUID>
+		  <Text>Porte-bagages</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501101</GUID>
+		  <Text>Des lingots d'acier</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501102</GUID>
+		  <Text>Pile de canon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501103</GUID>
+		  <Text>Une pile de caisses</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501104</GUID>
+		  <Text>Des tuyaux en métal</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501105</GUID>
+		  <Text>Réservoirs</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501106</GUID>
+		  <Text>Château d'eau</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501107</GUID>
+		  <Text>Hangar de chantier</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501108</GUID>
+		  <Text>Phare</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501113</GUID>
+		  <Text>Dépôt portuaire 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501114</GUID>
+		  <Text>Quai alternatif avec garde-corps</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501115</GUID>
+		  <Text>Quai alternatif sans garde-corps</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501116</GUID>
+		  <Text>Dépôt portuaire 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501117</GUID>
+		  <Text>Dépôt portuaire 2x1 sans toit</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501118</GUID>
+		  <Text>Coin du dépôt portuaire</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501119</GUID>
+		  <Text>Dépôt portuaire - Traversée en T</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501120</GUID>
+		  <Text>Dépôt portuaire X-crossing</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501121</GUID>
+		  <Text>Signpost</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501124</GUID>
+		  <Text>Bateaux avec mât OW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501125</GUID>
+		  <Text>Bateaux avec mât NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501126</GUID>
+		  <Text>Bateaux avec mât neutre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501127</GUID>
+		  <Text>Bateaux sans mât OW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501128</GUID>
+		  <Text>Bateaux sans mât NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501129</GUID>
+		  <Text>Bateaux sans mât Neutre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501130</GUID>
+		  <Text>Bateaux moyens</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501131</GUID>
+		  <Text>Des navires à vapeur de taille moyenne</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501132</GUID>
+		  <Text>Des voiliers de taille moyenne</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501133</GUID>
+		  <Text>Des navires de transport à vapeur</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501134</GUID>
+		  <Text>Grands voiliers</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501135</GUID>
+		  <Text>Grands navires mixtes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501136</GUID>
+		  <Text>Un bateau à vapeur à pales</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501137</GUID>
+		  <Text>Croiseur de combat</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501138</GUID>
+		  <Text>Navires de ligne</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501139</GUID>
+		  <Text>Grand Est</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501140</GUID>
+		  <Text>Tug actif</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501141</GUID>
+		  <Text>Tracteur inactif</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501142</GUID>
+		  <Text>Des barges chargées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501143</GUID>
+		  <Text>Pont en bois (2x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501144</GUID>
+		  <Text>Pont en bois (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501145</GUID>
+		  <Text>Pont en bois (2x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501146</GUID>
+		  <Text>Pont en bois (3x1)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501151</GUID>
+		  <Text>Un coin profond</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501152</GUID>
+		  <Text>Surface de profondeur</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501153</GUID>
+		  <Text>Profondeur 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501154</GUID>
+		  <Text>Profondeur 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501155</GUID>
+		  <Text>Profondeur 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501156</GUID>
+		  <Text>Remplissage de coins profonds</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501157</GUID>
+		  <Text>Escaliers profonds</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501158</GUID>
+		  <Text>Rampe à gauche</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501159</GUID>
+		  <Text>Fin de la rampe à gauche</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501160</GUID>
+		  <Text>Rampe droite</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501161</GUID>
+		  <Text>Fin de la rampe à droite</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501162</GUID>
+		  <Text>Rampe libre à gauche</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501163</GUID>
+		  <Text>Une rampe autoportante, c'est ça</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501164</GUID>
+		  <Text>Coin indépendant</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501165</GUID>
+		  <Text>Surface autoportante</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501166</GUID>
+		  <Text>Freestanding 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501167</GUID>
+		  <Text>Autonome 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501168</GUID>
+		  <Text>Autonome 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501169</GUID>
+		  <Text>Un coin profond</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501170</GUID>
+		  <Text>Surface profonde</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501171</GUID>
+		  <Text>Profondeur 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501172</GUID>
+		  <Text>Profondeur 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501173</GUID>
+		  <Text>Profondeur 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501174</GUID>
+		  <Text>Remplissage de coins profonds</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501175</GUID>
+		  <Text>Escaliers profonds</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501176</GUID>
+		  <Text>Rampe à gauche</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501177</GUID>
+		  <Text>Fin de la rampe à gauche</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501178</GUID>
+		  <Text>Rampe droite</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501179</GUID>
+		  <Text>Fin de la rampe à droite</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501180</GUID>
+		  <Text>Rampe indépendante à gauche</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501181</GUID>
+		  <Text>Une rampe autoportante, c'est ça</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501182</GUID>
+		  <Text>Coin indépendant</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501183</GUID>
+		  <Text>Surface autoportante</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501184</GUID>
+		  <Text>Freestanding 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501185</GUID>
+		  <Text>Autonome 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501186</GUID>
+		  <Text>Autonome 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501187</GUID>
+		  <Text>Un coin profond</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501188</GUID>
+		  <Text>Surface profonde</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501189</GUID>
+		  <Text>Profondeur 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501190</GUID>
+		  <Text>Profondeur 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501191</GUID>
+		  <Text>Profondeur 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501192</GUID>
+		  <Text>Remplissage de coins profonds</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501193</GUID>
+		  <Text>Escaliers profonds</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501194</GUID>
+		  <Text>Rampe à gauche</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501195</GUID>
+		  <Text>Fin de la rampe à gauche</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501196</GUID>
+		  <Text>Rampe droite</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501197</GUID>
+		  <Text>Fin de la rampe à droite</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501198</GUID>
+		  <Text>Rampe autoportante à gauche</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501199</GUID>
+		  <Text>Une rampe autoportante, c'est ça</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501200</GUID>
+		  <Text>Coin indépendant</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501201</GUID>
+		  <Text>Surface autoportante</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501202</GUID>
+		  <Text>Libre 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501203</GUID>
+		  <Text>Autonome 2x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501204</GUID>
+		  <Text>Autonome 4x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501205</GUID>
+		  <Text>Des caisses de bar</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501206</GUID>
+		  <Text>Panneaux publicitaires Stege Auto-publicité Anno</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501207</GUID>
+		  <Text>Des panneaux publicitaires pour les produits du jeu</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501208</GUID>
+		  <Text>Mods des panneaux publicitaires des bars</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501210</GUID>
+		  <Text>Drapeau des passerelles 1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501211</GUID>
+		  <Text>Le drapeau reste 2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501212</GUID>
+		  <Text>Reste drapeau 3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501213</GUID>
+		  <Text>Reste drapeau 4</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501214</GUID>
+		  <Text>Reste drapeau 5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501215</GUID>
+		  <Text>Reste drapeau 6</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501216</GUID>
+		  <Text>Reste drapeau 7</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501217</GUID>
+		  <Text>Reste drapeau 8</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501218</GUID>
+		  <Text>Drapeau des ponts 9</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501219</GUID>
+		  <Text>Drapeau de pont 10</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501220</GUID>
+		  <Text>Drapeau de Webs 11</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501221</GUID>
+		  <Text>Reste drapeau 12</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501222</GUID>
+		  <Text>Reste drapeau 13</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501223</GUID>
+		  <Text>Reste drapeau 14</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501224</GUID>
+		  <Text>Reste drapeau 15</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501225</GUID>
+		  <Text>Reste drapeau 16</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501226</GUID>
+		  <Text>Reste drapeau 17</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501227</GUID>
+		  <Text>Reste drapeau 18</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501228</GUID>
+		  <Text>Reste drapeau 19</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501229</GUID>
+		  <Text>Reste drapeau 20</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501230</GUID>
+		  <Text>Les drapeaux restent à 21</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501231</GUID>
+		  <Text>Reste drapeau 22</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501232</GUID>
+		  <Text>Les drapeaux restent à 23</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501233</GUID>
+		  <Text>Palier de pétrole moyen</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501234</GUID>
+		  <Text>Palier de pétrole moyen</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501235</GUID>
+		  <Text>Palier de pétrole moyen</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501236</GUID>
+		  <Text>Grand palier à huile</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501237</GUID>
+		  <Text>Grand palier à huile</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501238</GUID>
+		  <Text>Grand palier à huile</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501239</GUID>
+		  <Text>Emplacement d'un petit canon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501240</GUID>
+		  <Text>Emplacement d'un grand canon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501241</GUID>
+		  <Text>Un mur de briques</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501242</GUID>
+		  <Text>Porte en brique</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501243</GUID>
+		  <Text>Muret</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501244</GUID>
+		  <Text>Arc de mur bas</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501245</GUID>
+		  <Text>Muret d'entrée</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501246</GUID>
+		  <Text>Clôture en acier orné</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501248</GUID>
+		  <Text>Plantes en pot sur un piédestal</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501249</GUID>
+		  <Text>Plantes en pot clôturées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501250</GUID>
+		  <Text>Plantes en pot Normal</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501251</GUID>
+		  <Text>Petits arbres et buissons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501252</GUID>
+		  <Text>Pots de fleurs sur piédestal</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501253</GUID>
+		  <Text>Pot de fleurs</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501254</GUID>
+		  <Text>Pot de fleurs Big</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501255</GUID>
+		  <Text>Panneaux publicitaires sur les quais : l'auto-publicité d'Anno</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501256</GUID>
+		  <Text>Les panneaux publicitaires Kai pour les produits du jeu</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501257</GUID>
+		  <Text>Kai billboards mods</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501258</GUID>
+		  <Text>Piliers publicitaires des quais</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501259</GUID>
+		  <Text>Bancs de Quay 1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501260</GUID>
+		  <Text>Quai Bancs 2 places avec personnes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501261</GUID>
+		  <Text>Quai Bancs 2 places sans personnes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501262</GUID>
+		  <Text>Quay 2er sans banquettes et sans personnes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501263</GUID>
+		  <Text>Bancs de quai avec guirlande</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501264</GUID>
+		  <Text>Bancs 4 places Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501265</GUID>
+		  <Text>Tapis rouge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501267</GUID>
+		  <Text>Drapeau de quai 1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501268</GUID>
+		  <Text>Kai flag 2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501269</GUID>
+		  <Text>Kai flag 3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501270</GUID>
+		  <Text>Drapeau Kai 4</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501271</GUID>
+		  <Text>Drapeau Kai 5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501272</GUID>
+		  <Text>Drapeau Kai 6</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501273</GUID>
+		  <Text>Drapeau de quai 7</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501274</GUID>
+		  <Text>Drapeau de quai 8</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501275</GUID>
+		  <Text>Drapeau Kai 9</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501276</GUID>
+		  <Text>Drapeau Kai 10</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501277</GUID>
+		  <Text>Drapeau Kai 11</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501278</GUID>
+		  <Text>Drapeau Kai 12</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501279</GUID>
+		  <Text>Drapeau de quai 13</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501280</GUID>
+		  <Text>Drapeau Kai 14</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501281</GUID>
+		  <Text>Drapeau Kai 15</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501282</GUID>
+		  <Text>Drapeau Kai 16</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501283</GUID>
+		  <Text>Drapeau de quai 17</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501284</GUID>
+		  <Text>Drapeau de quai 18</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501285</GUID>
+		  <Text>Drapeau de quai 19</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501286</GUID>
+		  <Text>Drapeau Kai 20</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501287</GUID>
+		  <Text>Drapeau Kai 21</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501288</GUID>
+		  <Text>Drapeau Kai 22</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501289</GUID>
+		  <Text>Drapeau Kai 23</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501292</GUID>
+		  <Text>Statues Kai 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501293</GUID>
+		  <Text>Fontaine de quai 1x1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501294</GUID>
+		  <Text>Statues de quai 2x2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501295</GUID>
+		  <Text>Fontaine de quai 2x2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501296</GUID>
+		  <Text>Puits de quai 3x2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501297</GUID>
+		  <Text>Quay wells 4x5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501298</GUID>
+		  <Text>Statues de quai 4x5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501299</GUID>
+		  <Text>Passages de quais</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501300</GUID>
+		  <Text>Arc de quai</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501301</GUID>
+		  <Text>Couverture de quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501302</GUID>
+		  <Text>Couverture de la route de Quay</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501303</GUID>
+		  <Text>Marchés sur les quais, ornementaux</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501304</GUID>
+		  <Text>Quay Kiosk</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501305</GUID>
+		  <Text>Les gens de Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501306</GUID>
+		  <Text>Drapeaux Kai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501309</GUID>
+		  <Text>Carrousel</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501310</GUID>
+		  <Text>La grande roue</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501311</GUID>
+		  <Text>Les montagnes russes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501312</GUID>
+		  <Text>Kiosque du voyageur</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501313</GUID>
+		  <Text>Caisse enregistreuse</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501314</GUID>
+		  <Text>Stand de crème glacée</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501315</GUID>
+		  <Text>Stand de barbe à papa</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501316</GUID>
+		  <Text>Stand de produits de boulangerie</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501317</GUID>
+		  <Text>Stand de vin chaud</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501318</GUID>
+		  <Text>Un stand de bonbons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501319</GUID>
+		  <Text>Frapper le lucas</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501320</GUID>
+		  <Text>Un étalage de nourriture</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501321</GUID>
+		  <Text>Stand de boissons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501322</GUID>
+		  <Text>Pizzeria</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501323</GUID>
+		  <Text>Confiserie</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501324</GUID>
+		  <Text>Cabane à boissons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501325</GUID>
+		  <Text>Le lancer de canettes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501326</GUID>
+		  <Text>Galerie de tir</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501327</GUID>
+		  <Text>Mur de photos</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501328</GUID>
+		  <Text>Stand de sandwichs au poisson</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501329</GUID>
+		  <Text>Harbour Bar</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501330</GUID>
+		  <Text>Les tables</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501331</GUID>
+		  <Text>Horloge publique</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501332</GUID>
+		  <Text>Éclairage public</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501333</GUID>
+		  <Text>Une dépanneuse</Text>
+		</Text>
+		<Text>
+			<GUID>1337501334</GUID>
+			<Text>Quai avec garde-corps</Text>
+		</Text>
+		<Text>
+			<GUID>1337501335</GUID>
+			<Text>Quai sans garde-corps</Text>
+		</Text>
+		
+		
+		<Text>
+			<GUID>1337501008</GUID>
+			<Text>Les rues Kai et Kai.</Text>
+		</Text>
+		<Text>
+			<GUID>1337501009</GUID>
+			<Text>Concevez votre quai portuaire différemment.</Text>
+		</Text>
+		<Text>
+			<GUID>13375010</GUID>
+			<Text>Les rues Kai et Kai.</Text>
+		</Text>
+		<Text>
+			<GUID>1337501011</GUID>
+			<Text>Les rues Kai et Kai.</Text>
+		</Text>
+		<Text>
+			<GUID>1337501012</GUID>
+			<Text>Les rues Kai et Kai.</Text>
+		</Text>
+		<Text>
+			<GUID>1337501049</GUID>
+			<Text>Route invisible pour la construction de ponts avec fonction routière. Construisez d'abord la route, puis le pont</Text>
+		</Text>
+		<Text>
+			<GUID>1337501059</GUID>
+			<Text>Les grues portuaires sont des transporteurs de charges indispensables. On n'en a jamais assez.</Text>
+		</Text>
+		<Text>
+			<GUID>1337501060</GUID>
+			<Text>Grues portuaires, quais et accessoires</Text>
+		</Text>
+		<Text>
+			<GUID>1337501061</GUID>
+			<Text>Grues portuaires, jetées et accessoires</Text>
+		</Text>
+		<Text>
+			<GUID>1337501062</GUID>
+			<Text>Grues portuaires, jetées et accessoires</Text>
+		</Text>
+		<Text>
+			<GUID>1337501109</GUID>
+			<Text>Dépôts portuaires et canons</Text>
+		</Text>
+		
+		<Text>
+			<GUID>1337501110</GUID>
+			<Text>Augmentez la capacité de stockage de votre île et préparez-vous à la guerre</Text>
+		</Text>
+		<Text>
+			<GUID>1337501111</GUID>
+			<Text>Dépôts portuaires et canons</Text>
+		</Text>
+		<Text>
+			<GUID>1337501112</GUID>
+			<Text>Dépôts portuaires et canons</Text>
+		</Text>
+		<Text>
+			<GUID>1337501122</GUID>
+			<Text>Navires ornementaux</Text>
+		</Text>
+		<Text>
+			<GUID>1337501123</GUID>
+			<Text>Petits, moyens ou grands, tous ensemble, ils sont les gardiens du port</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501147</GUID>
+		  <Text>Les jetées des murs de quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501148</GUID>
+		  <Text>Passerelles pour la zone des quais</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501149</GUID>
+		  <Text>Passerelles pour murs de quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501150</GUID>
+		  <Text>Passerelles sur le mur du quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501209</GUID>
+		  <Text>Drapeaux pour les jetées de murs de quais profonds</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501247</GUID>
+		  <Text>Quay ornaments</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501266</GUID>
+		  <Text>Drapeaux de quai</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501290</GUID>
+		  <Text>Statues et fontaines</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501291</GUID>
+		  <Text>Une magnifique statue ou une fontaine rafraîchissante, les deux ne manquent pas au port.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501307</GUID>
+		  <Text>Champ de foire portuaire</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501308</GUID>
+		  <Text>Il n'y a pas de meilleur endroit que le Harbour Fair.</Text>
+		</Text>
+  </ModOp>
+</ModOps>

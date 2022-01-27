@@ -1,0 +1,552 @@
+	<!-- muggenstuermer GUID-Range  1337500000 - 1337509900  -->
+	<!-- ID's are used for for City_Ornaments_2.0: 1337500030 to 1337500351 (free 1337500240)-->
+	<!-- InternalID's are used for for City_Ornaments_2.0 : 448 to 472 -->
+	
+	<!-- ID's used for Harbour_Ornaments_2.0 :   1337501000 to 1337501336 -->
+	<!-- InternalID's are used for Harbour_Ornaments_2.0 : 400 to 447 -->
+	
+	<!-- ID's used for THIS MOD :   1337500352 to 1337500358 -->
+	<!-- InternalID's are used for THIS MOD : 0 -->
+<ModOps>
+
+	<ModOp Type="add" GUID='132781,132752,133342,133343,133345,133346,601445' Path="/Values/Building">
+		<AllowChangeVariation>1</AllowChangeVariation>
+    </ModOp>
+	<ModOp Type="add" GUID='132781,132752,133342,133343,133345,133346' Path="/Values/Object/Variations">
+		<Item>
+			<Filename>data\modgraphics\buildings\public\restaurant\restaurant_bar_new_01.cfg</Filename>
+		</Item>
+		<Item>
+			<Filename>data\modgraphics\buildings\public\restaurant\restaurant_bar_new_02.cfg</Filename>
+		</Item>
+    </ModOp>
+	
+	<ModOp Type="add" GUID='601445' Path="/Values/Object/Variations">
+		<Item>
+			<Filename>data\modgraphics\buildings\public\hotel\hotel_01.cfg</Filename>
+		</Item>
+		<Item>
+			<Filename>data\modgraphics\buildings\public\hotel\hotel_02.cfg</Filename>
+		</Item>
+    </ModOp>
+	<ModOp Type="add" GUID='601445' Path="/Values">
+		<FeedbackController>
+			<NightBehavior>HideNone</NightBehavior>
+		</FeedbackController>
+    </ModOp>
+	
+	
+	<!-- Old Trainstation as Warehouse -->
+	<ModOp Type="addNextSibling" GUID='1010347'>
+		<Asset>
+			<Template>Warehouse</Template>
+			<Values>
+				<Standard>
+					<GUID>1337500352</GUID>
+					<Name>monument_01_06</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/big_station.png</IconFilename>
+					<ID>TrainStation</ID>
+					<InfoDescription>2975</InfoDescription>
+				</Standard>
+				<Building>
+					<PickingAsset>1337500352</PickingAsset>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+					<BuildingCategoryName>11151</BuildingCategoryName>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AllowChangeVariation>1</AllowChangeVariation>
+				</Building>
+				<Blocking>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Cost>
+					<Costs>
+						<Item>
+							<Ingredient>1010017</Ingredient>
+							<Amount>550000</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010196</Ingredient>
+							<Amount>478</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010205</Ingredient>
+							<Amount>625</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010218</Ingredient>
+							<Amount>213</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010207</Ingredient>
+							<Amount>534</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010202</Ingredient>
+							<Amount>265</Amount>
+						</Item>
+					</Costs>
+				</Cost>
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\public\logistic/station_test.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\public\logistic/station_test_02.cfg</Filename>
+						</Item>
+					</Variations>
+				</Object>
+				<Mesh>
+					<LogoMode>CorporationLogoFromPlayer</LogoMode>
+					<SetCompanyLogo>1</SetCompanyLogo>
+				</Mesh>
+				<Selection>
+					<GUIType>Warehouse</GUIType>
+					<ParticipantMessageTrigger>ClickKontor</ParticipantMessageTrigger>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Grand Warehouse</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>23402</LineID>
+				</Text>
+				<Constructable />
+				<Locked />
+				<SoundEmitter>
+					<ActiveSounds>
+						<Item>
+							<Sound>200834</Sound>
+						</Item>
+					</ActiveSounds>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+					</DestroySounds>
+					<IncidentSounds>
+						<InfectedFire>
+							<Item>
+								<Sound>214659</Sound>
+							</Item>
+						</InfectedFire>
+					</IncidentSounds>
+					<BuildingRepaired>
+						<Item>
+							<Sound>203866</Sound>
+						</Item>
+					</BuildingRepaired>
+				</SoundEmitter>
+				<FeedbackController />
+				<Warehouse>
+					<WarehouseStorage>
+						<StorageMax>0</StorageMax>
+					</WarehouseStorage>
+				</Warehouse>
+				<LogisticNode>
+					<QueueConfiguration>
+						<ProcessingQueueParallelCount>6</ProcessingQueueParallelCount>
+					</QueueConfiguration>
+				</LogisticNode>
+				<Ornament>
+					<OrnamentUnit>4</OrnamentUnit>
+					<OrnamentDescritpion>2975</OrnamentDescritpion>
+				</Ornament>
+				<Infolayer />
+				<FactoryBase />
+				<Culture>
+					<Attractiveness>230</Attractiveness>
+					<CultureSpawnGroup>1</CultureSpawnGroup>
+				</Culture>
+				<AmbientMoodProvider>
+					<AmbientMood>ResidenceTier1</AmbientMood>
+				</AmbientMoodProvider>
+				<Maintenance>
+					<Maintenances>
+						<Item>
+							<Product>1010017</Product>
+							<Amount>750</Amount>
+							<InactiveAmount>100</InactiveAmount>
+						</Item>
+					</Maintenances>
+				</Maintenance>
+				<BusActivation>
+					<BusNeed>132754</BusNeed>
+				</BusActivation>
+				<Attackable>
+					<MaximumHitPoints>8500</MaximumHitPoints>
+					<SelfHealPerHealTick>5</SelfHealPerHealTick>
+				</Attackable>
+				<Pausable />
+				<UpgradeList />
+				<Electric />
+				<QuestObject />
+				<ItemContainer>
+					<SocketCount>3</SocketCount>
+					<SocketAllocation>RadiusBuilding;TownHall</SocketAllocation>
+					<SocketScope>Radius</SocketScope>
+					<SocketScopeRadius>50</SocketScopeRadius>
+					<InitSocketItems>
+						<Item>
+							<Item>1337500353</Item>
+							<StackSize>1</StackSize>
+						</Item>
+					</InitSocketItems>
+				</ItemContainer>
+			</Values>
+		</Asset>
+	</ModOp>
+	
+	
+	<!-- BUFF for Station-->
+	<ModOp Type="addNextSibling" GUID='17742'>
+		<Asset>
+			<Template>TownhallItem</Template>
+			<Values>
+				<Standard>
+					<GUID>1337500353</GUID>
+					<Name>eifel buff</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/big_station.png</IconFilename>
+					<InfoDescription>19478</InfoDescription>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>TowerBuff</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>26928</LineID>
+				</Text>
+				<Item>
+					<MaxStackSize>1</MaxStackSize>
+					<Rarity>Epic</Rarity>
+					<ExclusiveGroup>EducationAct</ExclusiveGroup>
+					<TradePrice>178000</TradePrice>
+				</Item>
+				<PopulationUpgrade>
+					<ResidentsUpgrade>
+						<Value>120</Value>
+					</ResidentsUpgrade>
+					<InputBenefitModifier>
+						<Item>
+							<Product>133891</Product> <!-- TOURIHAFEN mehr besucher -->
+							<AdditionalSupply>15</AdditionalSupply>
+						</Item>
+						<Item>
+							<Product>1010213</Product><!-- brot mehr besucher -->
+							<AdditionalSupply>15</AdditionalSupply>
+						</Item>
+						<Item>
+							<Product>132751</Product> <!-- Restaurant mehr besucher -->
+							<AdditionalSupply>15</AdditionalSupply>
+						</Item>
+						<Item>
+							<Product>133573</Product> <!-- Variete mehr besucher -->
+							<AdditionalSupply>15</AdditionalSupply>
+						</Item>
+						<Item>
+							<Product>133183</Product> <!-- konfitüre mehr besucher -->
+							<AdditionalSupply>15</AdditionalSupply>
+						</Item>
+						<Item>
+							<Product>132755</Product> <!-- Cafe mehr besucher -->
+							<AdditionalSupply>15</AdditionalSupply>
+						</Item>
+						<Item>
+							<Product>133181</Product> <!-- Shampoo mehr besucher -->
+							<AdditionalSupply>15</AdditionalSupply>
+						</Item>
+						<Item>
+							<Product>132754</Product> <!-- Cafe mehr besucher -->
+							<AdditionalSupply>15</AdditionalSupply>
+						</Item>
+					</InputBenefitModifier>
+				</PopulationUpgrade>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>15</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>194022</GUID><!-- all restaurants,bars etc -->
+						</Item>
+						<Item>
+							<GUID>194025</GUID><!-- all malls -->
+						</Item>
+						<Item>
+							<GUID>601445</GUID><!-- hotel -->
+						</Item>
+						<Item>
+							<GUID>194011</GUID><!-- all chemical plants -->
+						</Item>
+					</EffectTargets>
+					<AllowStacking>0</AllowStacking>
+				</ItemEffect>
+				<BuildingUpgrade>
+					<WorkforceAmountUpgrade>
+						<Value>-25</Value>
+						<Percental>1</Percental>
+					</WorkforceAmountUpgrade>
+				</BuildingUpgrade>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Easy;Average</ItemDifficulties>
+				</ExpeditionAttribute>	
+				<VisitorHarborUpgrade />
+				<CultureUpgrade />
+				<IncidentInfluencerUpgrade />
+				<Locked />
+				<Buff />
+			</Values>
+		</Asset>
+	</ModOp>
+	
+	<!-- adding to BusTourismTargetBuildings -->
+	<ModOp Type="add" GUID='134346' Path="/Values/FeedbackBuildingGroup/Buildings">
+		<Item>
+		  <Building>1337500352</Building>
+		</Item>
+    </ModOp>
+	
+	<!-- Triumphal Arch -->
+	<ModOp Type="addNextSibling" GUID='1010347'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500354</GUID>
+                    <Name>Arch</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/nap_arch.png</IconFilename>
+					<InfoDescription>17716</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337500354</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>3</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+                <Object>
+					<Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\public\logistic/nap_arch.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17720</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
+	
+	<!-- Baumenü Bahnhof -->
+	<ModOp Type="addNextSibling" GUID='1010347'>
+		<Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500355</GUID>
+                    <Name>WarehouseStation</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/big_station.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+							<Building>1337500352</Building>
+							<!-- Old Trainstation as Warehouse -->
+						</Item>
+						<Item>
+							<Building>1337500354</Building>
+							<!-- Triumphal Arch -->
+						</Item>
+					</BuildingList>
+                    <CategoryDescription>1337500356</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>GroundPlacements</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+	
+	<!-- Baumenü nach hotel -->
+	<ModOp Type="addNextSibling" GUID="500944,132779" Path="Values/ConstructionCategory/BuildingList/Item[Building = '601445']">
+        <Item>
+            <Building>1337500355</Building>
+        </Item>
+    </ModOp>
+	
+	
+	
+	<!-- Freischaltung / Trigger -->
+	<ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130248']">
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1337500357</GUID>
+					<Name>intermediate moderate 2.0</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_tier02.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>15000003</Context>
+								<CounterAmount>500</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+										</UnlockAssets>
+										<UnhideAssets>
+											<Item>
+												<Asset>1337500355</Asset>
+												<!-- Baumenü Bahnhof -->
+											</Item>
+											<Item>
+												<Asset>1337500352</Asset>
+												<!-- Old Trainstation as Warehouse -->
+											</Item>
+											<Item>
+												<Asset>1337500354</Asset>
+												<!-- Triumphal Arch -->
+											</Item>
+										</UnhideAssets>
+										<AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+			</Values>
+		</Asset>
+	</ModOp>
+	
+	
+	<!-- Freischaltung / Trigger -->
+	<ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130248']">
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1337500358</GUID>
+					<Name>intermediate moderate 2.0</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_tier02.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+                            <Template>ConditionPlayerCounter</Template>
+                            <Values>
+                              <Condition />
+                              <ConditionPlayerCounter>
+                                <Context>133890</Context>
+                                <CounterAmount>1</CounterAmount>
+                              </ConditionPlayerCounter>
+                            </Values>
+                          </TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+										<Item>
+												<Asset>1337500352</Asset>
+												<!-- Old Trainstation as Warehouse -->
+											</Item>
+											<Item>
+												<Asset>1337500354</Asset>
+												<!-- Triumphal Arch -->
+											</Item>
+										</UnlockAssets>
+										<UnhideAssets>
+											
+										</UnhideAssets>
+										<AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+			</Values>
+		</Asset>
+	</ModOp>
+</ModOps>
