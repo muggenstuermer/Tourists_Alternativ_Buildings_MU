@@ -59,96 +59,38 @@
   </IntersectBox>
   <BuildBlocker>
     <Position>
-      <xf>-2</xf>
-      <zf>2</zf>
+      <xf>-2.5</xf>
+      <zf>2.5</zf>
     </Position>
     <Position>
-      <xf>-2</xf>
-      <zf>1</zf>
+      <xf>-2.5</xf>
+      <zf>-2.5</zf>
     </Position>
     <Position>
-      <xf>-1</xf>
-      <zf>1</zf>
+      <xf>2.5</xf>
+      <zf>-2.5</zf>
     </Position>
     <Position>
-      <xf>-1</xf>
-      <zf>2</zf>
+      <xf>2.5</xf>
+      <zf>2.5</zf>
     </Position>
   </BuildBlocker>
-  
-  <BuildBlocker>
-    <Position>
-      <xf>-2</xf>
-      <zf>-2</zf>
-    </Position>
-    <Position>
-      <xf>-2</xf>
-      <zf>-1</zf>
-    </Position>
-    <Position>
-      <xf>-1</xf>
-      <zf>-1</zf>
-    </Position>
-    <Position>
-      <xf>-1</xf>
-      <zf>-2</zf>
-    </Position>
-  </BuildBlocker>
-  
-  <BuildBlocker>
-    <Position>
-      <xf>2</xf>
-      <zf>2</zf>
-    </Position>
-    <Position>
-      <xf>2</xf>
-      <zf>1</zf>
-    </Position>
-    <Position>
-      <xf>1</xf>
-      <zf>1</zf>
-    </Position>
-    <Position>
-      <xf>1</xf>
-      <zf>2</zf>
-    </Position>
-  </BuildBlocker>
-  
-  <BuildBlocker>
-    <Position>
-      <xf>2</xf>
-      <zf>-2</zf>
-    </Position>
-    <Position>
-      <xf>2</xf>
-      <zf>-1</zf>
-    </Position>
-    <Position>
-      <xf>1</xf>
-      <zf>-1</zf>
-    </Position>
-    <Position>
-      <xf>1</xf>
-      <zf>-2</zf>
-    </Position>
-  </BuildBlocker>
-  
   <FeedbackBlocker>
     <Position>
-      <xf>-2.0</xf>
-      <zf>2.0</zf>
+      <xf>-2.5</xf>
+      <zf>2.5</zf>
     </Position>
     <Position>
-      <xf>-2.0</xf>
-      <zf>-2.0</zf>
+      <xf>-2.5</xf>
+      <zf>-2.5</zf>
     </Position>
     <Position>
-      <xf>2.0</xf>
-      <zf>-2.0</zf>
+      <xf>2.5</xf>
+      <zf>-2.5</zf>
     </Position>
     <Position>
-      <xf>2.0</xf>
-      <zf>2.0</zf>
+      <xf>2.5</xf>
+      <zf>2.5</zf>
     </Position>
   </FeedbackBlocker>
   

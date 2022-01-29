@@ -1,0 +1,37 @@
+[Gameplay]Tourists_Alternativ_Buildings_MU
+
+Ce mod ajoute des bâtiments alternatifs pour l'hôtel et le bar (shift+V)
+	-> Avec les prochaines mises à jour, tous les bâtiments multiples de la saison touristique auront une alternative.
+	
+De plus, il ajoute une gare historique, "Entrepôt de la gare historique", qui prend la fonction d'un entrepôt pour améliorer un peu l'image de la ville.
+	-> Ce bâtiment est buffé :
+	
+		hôtels : max +105 touristes en plus
+			->   +15 de plus par :
+				 Port touristique
+				 Restaurants
+				 Variétés
+				 Confitures
+				 Café
+				 Shampooing
+				 Bar
+				
+		Bars / restaurants / cafés / toutes les galeries marchandes / toutes les usines chimiques :
+			->  +15% d'augmentation de la production
+				-25% de main d'œuvre
+				
+	le bâtiment n'a volontairement pas de couverture, afin de ne pas entraver la liberté d'aménagement et peut être construit et recouvert comme on le souhaite.
+	sur les côtés, il y a de la place pour 3 voies d'entrée et de sortie (ou des routes, comme on veut).
+	et au milieu de chaque entrée principale pour une rue (ou ce que l'on préfère)
+	
+	on a volontairement renoncé à une grande décoration et on n'a pas inséré de personnes etc. au cours du jeu, il s'y passe tellement de choses qu'on n'en a pas besoin.
+	
+Il y a aussi des passages qui sont apparus par hasard.
+	->  une fois pour les routes doubles
+		une fois pour les routes simples
+		
+		
+	Ces ornements n'ont pas non plus de décalcomanie.
+	
+	Je vous souhaite beaucoup de plaisir avec ce jeu et j'espère qu'il vous plaira et qu'il vous sera utile au cours du jeu.
+	muggenstuermer

@@ -1,11 +1,11 @@
 	<!-- muggenstuermer GUID-Range  1337500000 - 1337509900  -->
-	<!-- ID's are used for for City_Ornaments_2.0: 1337500030 to 1337500351 (free 1337500240)-->
+	<!-- ID's are used for for City_Ornaments_2.0: 1337500030 to 1337500351 (free: 1337500240)-->
 	<!-- InternalID's are used for for City_Ornaments_2.0 : 448 to 472 -->
 	
 	<!-- ID's used for Harbour_Ornaments_2.0 :   1337501000 to 1337501336 -->
 	<!-- InternalID's are used for Harbour_Ornaments_2.0 : 400 to 447 -->
 	
-	<!-- ID's used for THIS MOD :   1337500352 to 1337500358 -->
+	<!-- ID's used for THIS MOD :   1337500352 to 1337500363 (free: 1337500357,1337500358)-->
 	<!-- InternalID's are used for THIS MOD : 0 -->
 <ModOps>
 
@@ -92,10 +92,10 @@
 				<Object>
 					<Variations>
 						<Item>
-							<Filename>data\modgraphics\buildings\public\logistic/station_test.cfg</Filename>
+							<Filename>data\modgraphics\buildings\public\logistic/station_warehouse_01.cfg</Filename>
 						</Item>
 						<Item>
-							<Filename>data\modgraphics\buildings\public\logistic/station_test_02.cfg</Filename>
+							<Filename>data\modgraphics\buildings\public\logistic/station_warehouse_02.cfg</Filename>
 						</Item>
 					</Variations>
 				</Object>
@@ -236,15 +236,11 @@
 				</Item>
 				<PopulationUpgrade>
 					<ResidentsUpgrade>
-						<Value>120</Value>
+						<Value>105</Value>
 					</ResidentsUpgrade>
 					<InputBenefitModifier>
 						<Item>
 							<Product>133891</Product> <!-- TOURIHAFEN mehr besucher -->
-							<AdditionalSupply>15</AdditionalSupply>
-						</Item>
-						<Item>
-							<Product>1010213</Product><!-- brot mehr besucher -->
 							<AdditionalSupply>15</AdditionalSupply>
 						</Item>
 						<Item>
@@ -268,7 +264,7 @@
 							<AdditionalSupply>15</AdditionalSupply>
 						</Item>
 						<Item>
-							<Product>132754</Product> <!-- Cafe mehr besucher -->
+							<Product>132754</Product> <!-- Bar mehr besucher -->
 							<AdditionalSupply>15</AdditionalSupply>
 						</Item>
 					</InputBenefitModifier>
@@ -322,7 +318,7 @@
 		</Item>
     </ModOp>
 	
-	<!-- Triumphal Arch -->
+	<!-- Triumphal Arch Double-->
 	<ModOp Type="addNextSibling" GUID='1010347'>
 		<Asset>
             <Template>OrnamentalBuilding</Template>
@@ -331,7 +327,7 @@
                     <GUID>1337500354</GUID>
                     <Name>Arch</Name>
                     <IconFilename>data/ui/2kimages/main/3dicons/nap_arch.png</IconFilename>
-					<InfoDescription>17716</InfoDescription>
+					<InfoDescription>1337500359</InfoDescription>
                 </Standard>
                 <Building>
 					<BuildingCategoryName>11149</BuildingCategoryName>
@@ -368,6 +364,9 @@
 						<Item>
 							<Filename>data\modgraphics\buildings\public\logistic/nap_arch.cfg</Filename>
 						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\public\logistic/nap_arch_03.cfg</Filename>
+						</Item>
 					</Variations>
                 </Object>
 				<SoundEmitter>
@@ -391,7 +390,83 @@
 				<Ornament>
 					<PlazzaSize>0</PlazzaSize>
 					<OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17720</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
+	
+	<!-- Triumphal Arch Single-->
+	<ModOp Type="addNextSibling" GUID='1010347'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500360</GUID>
+                    <Name>Arch</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/nap_arch.png</IconFilename>
+					<InfoDescription>1337500361</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337500360</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>3</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+                <Object>
+					<Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\public\logistic/nap_arch_02.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\public\logistic/nap_arch_04.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
                 </Ornament>
 			</Values>
         </Asset>
@@ -415,7 +490,11 @@
 						</Item>
 						<Item>
 							<Building>1337500354</Building>
-							<!-- Triumphal Arch -->
+							<!-- Triumphal Arch Double-->
+						</Item>
+						<Item>
+							<Building>1337500360</Building>
+							<!-- Triumphal Arch Single-->
 						</Item>
 					</BuildingList>
                     <CategoryDescription>1337500356</CategoryDescription>
@@ -450,7 +529,7 @@
 			<Template>Trigger</Template>
 			<Values>
 				<Standard>
-					<GUID>1337500357</GUID>
+					<GUID>1337500362</GUID>
 					<Name>intermediate moderate 2.0</Name>
 					<IconFilename>data/ui/2kimages/main/profiles/resident_tier02.png</IconFilename>
 				</Standard>
@@ -484,7 +563,11 @@
 											</Item>
 											<Item>
 												<Asset>1337500354</Asset>
-												<!-- Triumphal Arch -->
+												<!-- Triumphal Arch Double -->
+											</Item>
+											<Item>
+												<Asset>1337500360</Asset>
+												<!-- Triumphal Arch Single -->
 											</Item>
 										</UnhideAssets>
 										<AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
@@ -505,7 +588,7 @@
 			<Template>Trigger</Template>
 			<Values>
 				<Standard>
-					<GUID>1337500358</GUID>
+					<GUID>1337500363</GUID>
 					<Name>intermediate moderate 2.0</Name>
 					<IconFilename>data/ui/2kimages/main/profiles/resident_tier02.png</IconFilename>
 				</Standard>
@@ -533,7 +616,11 @@
 											</Item>
 											<Item>
 												<Asset>1337500354</Asset>
-												<!-- Triumphal Arch -->
+												<!-- Triumphal Arch Double -->
+											</Item>
+											<Item>
+												<Asset>1337500360</Asset>
+												<!-- Triumphal Arch Single -->
 											</Item>
 										</UnlockAssets>
 										<UnhideAssets>

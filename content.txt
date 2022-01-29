@@ -1,0 +1,37 @@
+[Gameplay]Tourists_Alternativ_Buildings_MU
+
+Dieser mod fügt alternativgebäude für das Hotel und die Bar hinzu (shift+V)
+	-> mit kommenden updates werden so nach und nach alle multigebäude aus der Tourist Season eine alternbative erhalten
+	
+Desweitern fügt es einen historischen Bahnhof hinzu ,"Historisches Bahnhofslager" ,der die funktion eines Lagerhauses übernimmt,um das stadtbild ein wenig zu verbessern
+	-> Dieses gebäude bufft :
+	
+		hotels : max +105 mehr touristen
+			->  je +15 mehr durch :
+				Touristenhafen
+				Restaurants
+				Varieté
+				Konfitüre
+				Café
+				Shampoo
+				Bar
+				
+		Bars / Restaurants/ Café's / alle Einkaufspassagen / alle Chemiefabriken :
+			->  je +15% höhere Produktion
+				je -25% arbeitskräfte
+				
+	das gebäude hat mit absicht keinen decal,um der gestaltungsfreiheit nicht im wege zu stehen und kann nach belieben bebaut und überbaut werden.
+	an den seiten ist platz für 3 schienen ein- und ausfahrten (oder auch strassen,wie man möchte)
+	und jeweils mittig an den haupteingängen für eine strasse (oder was man bevorzugt)
+	
+	es wurde bewusst auf grosse deko verzichtet und auch keine personen etc eingefügt.im spielverlauf ist dort so viel los,daß es nicht benötigt wird / wurde
+	
+Dazu sind noch durchfahrten enthalten welche zufällig entstanden sind
+	->  ein mal für doppelstrassen
+		ein mal für einfache strassen
+		
+		
+	auch diese ornamente besitzen keinen decal.
+	
+	Ich wünsche euch viel spaß damit und hoffe es gefällt euch und ist im spielverlauf auch nützlich
+	muggenstuermer
