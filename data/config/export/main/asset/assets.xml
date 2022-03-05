@@ -9,15 +9,33 @@
 	<!-- InternalID's are used for THIS MOD : 0 -->
 <ModOps>
 
-	<ModOp Type="add" GUID='132781,132752,133342,133343,133345,133346,601445' Path="/Values/Building">
+	<ModOp Type="add" GUID='132781,132752,133342,133343,133345,133346,601445,132782,132753,133347,133348,133349,133350' Path="/Values/Building">
 		<AllowChangeVariation>1</AllowChangeVariation>
     </ModOp>
+	
+	<!-- Bar -->	
 	<ModOp Type="add" GUID='132781,132752,133342,133343,133345,133346' Path="/Values/Object/Variations">
 		<Item>
 			<Filename>data\modgraphics\buildings\public\restaurant\restaurant_bar_new_01.cfg</Filename>
 		</Item>
 		<Item>
 			<Filename>data\modgraphics\buildings\public\restaurant\restaurant_bar_new_02.cfg</Filename>
+		</Item>
+    </ModOp>
+	
+	<!-- Café -->
+	<ModOp Type="add" GUID='132782,132753,133347,133348,133349,133350' Path="/Values/Object/Variations">
+		<Item>
+			<Filename>data\modgraphics\buildings\public\restaurant\restaurant_cafe_new_01.cfg</Filename>
+		</Item>
+		<Item>
+			<Filename>data\modgraphics\buildings\public\restaurant\restaurant_cafe_new_02.cfg</Filename>
+		</Item>
+		<Item>
+			<Filename>data\modgraphics\buildings\public\restaurant\restaurant_cafe_new_03.cfg</Filename>
+		</Item>
+		<Item>
+			<Filename>data\modgraphics\buildings\public\restaurant\restaurant_cafe_new_04.cfg</Filename>
 		</Item>
     </ModOp>
 	
